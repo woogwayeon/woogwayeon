@@ -36,7 +36,7 @@
 ## 🛠️ 사용해본 기술
 
 <br>
-![언어 아이콘](https://github.com/woogwayeon/woogwayeon/raw/main/assets/lang-icon.png)
+![언어 아이콘](https://github.com/woogwayeon/woogwayeon/assets/lang-icon.png)
 <br><br>
 C, Java, JavaScript, HTML, CSS
 Arduino, React, Python, R
