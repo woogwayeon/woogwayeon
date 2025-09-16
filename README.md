@@ -17,17 +17,20 @@
 <br>
 
 [R_AI-DeepLearning-Model-Practice](https://github.com/woogwayeon/R_AI-DeepLearning-Model-Practice)  
+
   R 언어로 딥러닝 모델을 실습하며 인공지능의 기초를 익혔습니다.
 
 <br>
 
 
 [Python_AI-DeepLearning-Model-Practice](https://github.com/woogwayeon/Python_AI-DeepLearning-Model-Practice)  
+
   Python을 활용한 다양한 딥러닝 모델 구현 및 실험 기록입니다.
 
 <br>
 
 [ReactJS-Movie-app](https://github.com/woogwayeon/ReactJS-Movie-app)  
+
   React를 활용한 영화 정보 앱 개발 프로젝트입니다.
 
 <br><br><br><br>
