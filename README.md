@@ -35,8 +35,6 @@
 
 ## 🛠️ 사용해본 기술
 
-<br>
-![언어 아이콘](assets/lang-icon.png)
 <br><br>
 C, Java, JavaScript, HTML, CSS
 Arduino, React, Python, R
