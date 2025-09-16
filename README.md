@@ -37,6 +37,7 @@
 
 <br>
 ![언어 아이콘](https://github.com/woogwayeon/woogwayeon/raw/main/assets/lang-icon.png)
+<br><br>
 C, Java, JavaScript, HTML, CSS
 Arduino, React, Python, R
 
